@@ -4,8 +4,7 @@
 
 ## Model Performance Metrics
 
-(1) Will Default
-(0) Will not Default 
+`1` Will Default & `0` Will not Default 
 ## Model Performance Metrics
 
 |                Model                 | Accuracy | Precision(1) | Recall(1) | Precision(0) | Recall(0) |
