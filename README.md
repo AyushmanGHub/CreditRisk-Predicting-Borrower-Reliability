@@ -19,27 +19,38 @@ The dataset consists of various features related to customer demographics, finan
 <img src="plots/01.png" alt="Alt Text" width="450" height ="300"/>
 
 
-## 01. Extra Tree Classifier
+## 🌲 Extra Tree Classifier
+The **Extra Trees Classifier (Extremely Randomized Trees)** is an ensemble learning method that builds multiple decision trees and aggregates their results to improve accuracy and reduce overfitting. Unlike Random Forest, it selects split points **completely at random**, making it more computationally efficient while maintaining strong predictive performance.  
 ### Feature Importance of `Extra Tree Classifier`
 <img src="plots/13.png" alt="Alt Text" width="800" height ="280"/>
 
-## 02. MLP Classifier (Neural Networks)
+
+## 🔗 MLP Classifier (Neural Networks)  
+The **MLP Classifier (Multi-Layer Perceptron)** is a type of **artificial neural network** that learns complex patterns from data through multiple layers of interconnected neurons. It uses **backpropagation** and **gradient descent** to adjust weights and minimize errors.  
 ### Feature Importance of `MLP Classifier (Neural Networks)`
 <img src="plots/12.png" alt="Alt Text" width="800" height ="280"/>
 
-## 03. Gradient Boosting Classifier
+
+## 🚀 Gradient Boosting Classifier  
+The **Gradient Boosting Classifier** is an **ensemble learning algorithm** that builds a series of weak learners (typically decision trees) and combines them to create a **strong predictive model**. It minimizes errors by **sequentially correcting previous mistakes** using gradient descent.  
 ### Feature Importance of `Gradient Boosting Classifier`
 <img src="plots/11.png" alt="Alt Text" width="800" height ="280"/>
 
-## 04. Logistic Regression
+
+## 🔹 Logistic Regression  
+**Logistic Regression** is a **supervised learning algorithm** used for **binary classification** problems. It predicts the probability that a given input belongs to a particular class using the **logistic (sigmoid) function**.  
 ### Feature Importance of `Logistic Regression`
 <img src="plots/10.png" alt="Alt Text" width="800" height ="280"/>
 
-## 05. Adaptive Boosting Classifier
+
+## 🚀 Adaptive Boosting (AdaBoost) Classifier  
+The **Adaptive Boosting (AdaBoost) Classifier** is an **ensemble learning method** that combines multiple weak learners (typically decision trees) to create a **strong classifier**. It works by **iteratively adjusting the weights** of misclassified instances, making the next model focus more on difficult cases.  
 ### Feature Importance of `Adaptive Boosting Classifier`
 <img src="plots/09.png" alt="Alt Text" width="800" height ="280"/>
 
-## 06. Support Vector Machine
+
+## 🚀 Support Vector Machine (SVM)  
+The **Support Vector Machine (SVM)** is a **powerful supervised learning algorithm** used for both **classification and regression tasks**. It works by finding the **optimal hyperplane** that best separates different classes in the feature space.  
 ### Feature Importance of `Support Vector Machine`
 <img src="plots/08.png" alt="Alt Text" width="800" height ="280"/>
 
