@@ -8,29 +8,56 @@
 <img src="plots/01.png" alt="Alt Text" width="400" height ="350"/>
 
 
-
-#### Figure 03. Histogram of Numerical Data
-<img src="plots/03.png" alt="Alt Text" width="800" height ="200"/>
-<img src="plots/04.png" alt="Alt Text" width="800" height ="200"/>
-
-#### Figure 04. Scatter matrix of Numerical Data
-<img src="plots/05.png" alt="Alt Text" width="800" height ="450"/>
-
-
 ## 01. Extra Tree Classifier
+### Feature Importance of `XGBoost Classifier`
+<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+
 ## 02. MLP Classifier (Neural Networks)
+### Feature Importance of `XGBoost Classifier`
+<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+
 ## 03. Gradient Boosting Classifier
+### Feature Importance of `XGBoost Classifier`
+<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+
 ## 04. Logistic Regression
+### Feature Importance of `XGBoost Classifier`
+<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+
 ## 05. Adaptive Boosting Classifier
+### Feature Importance of `XGBoost Classifier`
+<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+
 ## 06. Support Vector Machine
+### Feature Importance of `XGBoost Classifier`
+<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+
 ## 07. K-Neighbours Classifier
+### Feature Importance of `XGBoost Classifier`
+<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+
 ## 08. Random Forest Classifier
+### Feature Importance of `Random Forest Classifier`
+<img src="plots/06.png" alt="Alt Text" width="800" height ="280"/>
+
 ## 09. Decision Tree Classifier
+### Feature Importance of `XGBoost Classifier`
+<img src="plots/05.png" alt="Alt Text" width="800" height ="280"/>
+
 ## 10. CatBoost Classifier
+### Feature Importance of `CatBoost Classifierr`
+<img src="plots/04.png" alt="Alt Text" width="800" height ="280"/>
+
 ## 11. LightGBM Classifier
+### Feature Importance of `LightGBM Classifier`
+<img src="plots/03.png" alt="Alt Text" width="800" height ="280"/>
+
+
 ## 12. XGBoost Classifier
 ### Feature Importance of `XGBoost Classifier`
 <img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+
+
 ## 13. Majority Classifier
 
 ### Figure 05. Significance of features for (a) Random Forest Model, (b) XGBoost Model
