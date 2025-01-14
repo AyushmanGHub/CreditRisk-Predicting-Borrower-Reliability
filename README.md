@@ -1,5 +1,6 @@
-# CreditRisk: Predicting Borrower Reliability
 🚀 **Explore the repository for code, analysis, and results!**
+---
+# CreditRisk: Predicting Borrower Reliability
 ---
 
 ## 🔍 Introduction  
