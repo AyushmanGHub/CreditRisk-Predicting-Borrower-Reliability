@@ -1,13 +1,10 @@
 # CreditRisk: Predicting Borrower Reliability
 ---
-<hr style="border: 1px dashed grey; width: 80%;"/>
-
-## Model Performance Metrics
 
 `1 Will Default` & `0 Will not Default`
 ## Model Performance Metrics
 
-|                Model                 | Accuracy | Precision(1) | Recall(1) | Precision(0) | Recall(0) |
+|                `Model`                | Accuracy | Precision(1) | Recall(1) | Precision(0) | Recall(0) |
 |--------------------------------------|----------|--------------|-----------|--------------|-----------|
 | Extra Tree Classifier                | 0.978970 |              |           |              |           |
 | MLP Classifier (Neural Networks)     | 0.973569 |              |           |              |           |
