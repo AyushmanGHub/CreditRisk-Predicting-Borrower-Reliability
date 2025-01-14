@@ -2,9 +2,9 @@
 ---
 ## Introduction
 
-## Exploratory Data Analysis with Visualisation
+## About DataSet and EDA
 
-#### Figure 01. Correlation Matrix Heatmap
+#### Figure 01. Distribution of `1 Will Default` & `0 Will not Default`
 <img src="plots/01.png" alt="Alt Text" width="800" height ="450"/>
 
 #### Figure 02. Histogram of Categorical Data
@@ -18,19 +18,20 @@
 <img src="plots/05.png" alt="Alt Text" width="800" height ="450"/>
 
 
-## 01. 'Extra Tree Classifier'
-## 02. 'MLP Classifier (Neural Networks)'
-## 03. 'Gradient Boosting Classifier'
-## 04. 'Logistic Regression'
-## 05. 'Adaptive Boosting Classifier'
-## 06. 'Support Vector Machine'
-## 07. 'K-Neighbours Classifier'
-## 08. 'Random Forest Classifier'
-## 09. 'Decision Tree Classifier'
-## 10. 'CatBoost Classifier'
-## 11. 'LightGBM Classifier'
-## 12. 'XGBoost Classifier'
-## 13. `Majority Classifier`
+## 01. Extra Tree Classifier
+## 02. MLP Classifier (Neural Networks)
+## 03. Gradient Boosting Classifier
+## 04. Logistic Regression
+## 05. Adaptive Boosting Classifier
+## 06. Support Vector Machine
+## 07. K-Neighbours Classifier
+## 08. Random Forest Classifier
+## 09. Decision Tree Classifier
+## 10. CatBoost Classifier
+## 11. LightGBM Classifier
+## 12. XGBoost Classifier
+## 13. Majority Classifier
+
 ### Figure 05. Significance of features for (a) Random Forest Model, (b) XGBoost Model
 <img src="plots/06.png" alt="Alt Text" width="800" height ="250"/>
 
