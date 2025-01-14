@@ -4,7 +4,7 @@
 
 ## About DataSet and EDA
 
-#### Figure 01. Distribution of `1 Will Default` & `0 Will not Default`
+### Figure 01. Distribution of `1 Will Default` & `0 Will not Default`
 <img src="plots/01.png" alt="Alt Text" width="400" height ="350"/>
 
 #### Figure 02. Histogram of Categorical Data
