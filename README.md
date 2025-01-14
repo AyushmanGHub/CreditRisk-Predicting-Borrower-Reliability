@@ -76,12 +76,16 @@ The **CatBoost Classifier** is an advanced gradient boosting algorithm developed
 ### Feature Importance of `CatBoost Classifierr`
 <img src="plots/04.png" alt="Alt Text" width="800" height ="280"/>
 
-## 11. LightGBM Classifier
+## 🔥 LightGBM Classifier
+
+**LightGBM (Light Gradient Boosting Machine)** is a highly efficient, scalable gradient boosting framework that is designed for fast training with large datasets. It uses a histogram-based approach and supports **parallelization** and **GPU acceleration**. LightGBM is capable of handling both **categorical features** and large-scale data with minimal memory usage. It is widely used for classification and regression tasks due to its high performance and accuracy, especially in competitive machine learning environments.
 ### Feature Importance of `LightGBM Classifier`
 <img src="plots/03.png" alt="Alt Text" width="800" height ="280"/>
 
 
-## 12. XGBoost Classifier
+## 🌟 XGBoost Classifier
+## XGBoost Classifier
+**XGBoost (Extreme Gradient Boosting)** is an optimized gradient boosting algorithm designed for speed and performance. It is widely known for its **accuracy** and **scalability**, particularly in classification and regression tasks. XGBoost employs advanced regularization techniques, such as **L1** and **L2** regularization, to prevent overfitting and improve model generalization. It supports **parallel processing**, **GPU acceleration**, and is capable of handling large datasets efficiently. XGBoost is often the go-to algorithm for data science competitions due to its outstanding performance and ability to handle diverse types of data.
 ### Feature Importance of `XGBoost Classifier`
 <img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
 
