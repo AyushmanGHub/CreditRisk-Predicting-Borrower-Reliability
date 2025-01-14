@@ -4,11 +4,10 @@
 
 ## About DataSet and EDA
 
-### Figure 01. Distribution of `1 Will Default` & `0 Will not Default`
+### Distribution of `1 Will Default` & `0 Will not Default`
 <img src="plots/01.png" alt="Alt Text" width="400" height ="350"/>
 
-#### Figure 02. Histogram of Categorical Data
-<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+
 
 #### Figure 03. Histogram of Numerical Data
 <img src="plots/03.png" alt="Alt Text" width="800" height ="200"/>
@@ -30,6 +29,8 @@
 ## 10. CatBoost Classifier
 ## 11. LightGBM Classifier
 ## 12. XGBoost Classifier
+### Feature Importance of `XGBoost Classifier`
+<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
 ## 13. Majority Classifier
 
 ### Figure 05. Significance of features for (a) Random Forest Model, (b) XGBoost Model
