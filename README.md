@@ -3,9 +3,9 @@
 <hr style="border: 1px dashed grey; width: 80%;"/>
 ## Model Comparison
 
-|               Model              | Accuracy | Precision |   Recall  |  
-|                                  |          |  Default  |  Default  |  
-|----------------------------------|----------|-----------|-----------|
+|               Model              | Accuracy | Precision |   Recall  |  Precision  |   Recall    |  
+|                                  |          |  Default  |  Default  | Not Default | Not Default |  
+|----------------------------------|----------|-----------|-----------|-------------|-------------|
 | Extra Tree Classifier            | 0.978970 |           |           |
 | MLP Classifier (Neural Networks) | 0.973569 |           |           |
 | Gradient Boosting Classifier     | 0.975983 |           |           |
