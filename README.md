@@ -9,39 +9,39 @@
 
 
 ## 01. Extra Tree Classifier
-### Feature Importance of `XGBoost Classifier`
-<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+### Feature Importance of `Extra Tree Classifier`
+<img src="plots/13.png" alt="Alt Text" width="800" height ="280"/>
 
 ## 02. MLP Classifier (Neural Networks)
-### Feature Importance of `XGBoost Classifier`
-<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+### Feature Importance of `MLP Classifier (Neural Networks)`
+<img src="plots/12.png" alt="Alt Text" width="800" height ="280"/>
 
 ## 03. Gradient Boosting Classifier
-### Feature Importance of `XGBoost Classifier`
-<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+### Feature Importance of `Gradient Boosting Classifier`
+<img src="plots/11.png" alt="Alt Text" width="800" height ="280"/>
 
 ## 04. Logistic Regression
-### Feature Importance of `XGBoost Classifier`
-<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+### Feature Importance of `Logistic Regression`
+<img src="plots/10.png" alt="Alt Text" width="800" height ="280"/>
 
 ## 05. Adaptive Boosting Classifier
-### Feature Importance of `XGBoost Classifier`
-<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+### Feature Importance of `Adaptive Boosting Classifier`
+<img src="plots/09.png" alt="Alt Text" width="800" height ="280"/>
 
 ## 06. Support Vector Machine
-### Feature Importance of `XGBoost Classifier`
-<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+### Feature Importance of `Support Vector Machine`
+<img src="plots/08.png" alt="Alt Text" width="800" height ="280"/>
 
 ## 07. K-Neighbours Classifier
-### Feature Importance of `XGBoost Classifier`
-<img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
+### Feature Importance of `K-Neighbours Classifier`
+<img src="plots/07.png" alt="Alt Text" width="800" height ="280"/>
 
 ## 08. Random Forest Classifier
 ### Feature Importance of `Random Forest Classifier`
 <img src="plots/06.png" alt="Alt Text" width="800" height ="280"/>
 
 ## 09. Decision Tree Classifier
-### Feature Importance of `XGBoost Classifier`
+### Feature Importance of `Decision Tree Classifier`
 <img src="plots/05.png" alt="Alt Text" width="800" height ="280"/>
 
 ## 10. CatBoost Classifier
