@@ -5,7 +5,7 @@
 ## Model Performance Metrics
 
 |                Model                   | Accuracy | Precision(1) | Recall(1) | Precision(0) | Recall(0) |
-|-----------------------------------  ---|----------|--------------|-----------|--------------|-----------|
+|----------------------------------------|----------|--------------|-----------|--------------|-----------|
 | `Extra Tree Classifier`                | 0.978970 |              |           |              |           |
 | `MLP Classifier (Neural Networks)`     | 0.973569 |              |           |              |           |
 | `Gradient Boosting Classifier`         | 0.975983 |              |           |              |           |
