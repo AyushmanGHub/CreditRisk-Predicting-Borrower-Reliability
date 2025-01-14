@@ -54,11 +54,14 @@ The **Support Vector Machine (SVM)** is a **powerful supervised learning algorit
 ### Feature Importance of `Support Vector Machine`
 <img src="plots/08.png" alt="Alt Text" width="800" height ="280"/>
 
-## 07. K-Neighbours Classifier
+
+## 🚀 K-Nearest Neighbors (K-NN) Classifier  
+The **K-Nearest Neighbors (K-NN)** classifier is a simple, yet powerful **instance-based learning algorithm** used for **classification and regression** tasks. It works by classifying a data point based on the majority class of its **K nearest neighbors** in the feature space.  
 ### Feature Importance of `K-Neighbours Classifier`
 <img src="plots/07.png" alt="Alt Text" width="800" height ="280"/>
 
-## 08. Random Forest Classifier
+## 🌲 Random Forest Classifier 
+The **Random Forest Classifier** is an ensemble learning algorithm that combines the predictions of multiple decision trees to improve classification accuracy. It builds multiple decision trees during training and merges them together to obtain a more accurate and stable prediction.
 ### Feature Importance of `Random Forest Classifier`
 <img src="plots/06.png" alt="Alt Text" width="800" height ="280"/>
 
