@@ -2,7 +2,11 @@
 ---
 ## Introduction
 
-## About DataSet and EDA
+
+## 📌 About the Dataset  
+📂 **Dataset Link**: [Kaggle - AmExpert CodeLab 2021](https://www.kaggle.com/datasets/pradip11/amexpert-codelab-2021)  
+
+The dataset consists of various features related to customer demographics, financial status, and credit behavior: `customer_id`, `age`,`gender`, `owns_car`, `owns_house`, `num_children`, `net_yearly_income`, `num_days_employed`, `occupation_type`, `total_family_members`, `migrant_worker`, `yearly_debt_payments`, `credit_limit`, `credit_limit_used (%)`, `credit_score`, `previous_defaults`, `default_in_last_6_months`, `credit_card_default 🔴 Target Variable`
 
 ### Distribution of `1 Will Default` & `0 Will not Default`
 <img src="plots/01.png" alt="Alt Text" width="450" height ="300"/>
