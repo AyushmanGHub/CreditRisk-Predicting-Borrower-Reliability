@@ -8,7 +8,7 @@
 <img src="plots/01.png" alt="Alt Text" width="400" height ="350"/>
 
 #### Figure 02. Histogram of Categorical Data
-<img src="plots/02.png" alt="Alt Text" width="800" height ="400"/>
+<img src="plots/02.png" alt="Alt Text" width="800" height ="300"/>
 
 #### Figure 03. Histogram of Numerical Data
 <img src="plots/03.png" alt="Alt Text" width="800" height ="200"/>
