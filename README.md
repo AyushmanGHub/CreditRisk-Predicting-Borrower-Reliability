@@ -5,7 +5,7 @@
 ## About DataSet and EDA
 
 ### Distribution of `1 Will Default` & `0 Will not Default`
-<img src="plots/01.png" alt="Alt Text" width="400" height ="350"/>
+<img src="plots/01.png" alt="Alt Text" width="450" height ="300"/>
 
 
 ## 01. Extra Tree Classifier
