@@ -65,11 +65,14 @@ The **Random Forest Classifier** is an ensemble learning algorithm that combines
 ### Feature Importance of `Random Forest Classifier`
 <img src="plots/06.png" alt="Alt Text" width="800" height ="280"/>
 
-## 09. Decision Tree Classifier
+## 🌱 Decision Tree Classifier
+The **Decision Tree Classifier** is a popular supervised machine learning algorithm used for classification tasks. It builds a tree-like model by recursively splitting the dataset based on feature values. Each internal node of the tree represents a decision based on a feature, and each leaf node corresponds to a class label. The model selects the feature that best separates the data at each step using criteria such as **Gini Impurity** or **Information Gain**.
 ### Feature Importance of `Decision Tree Classifier`
 <img src="plots/05.png" alt="Alt Text" width="800" height ="280"/>
 
-## 10. CatBoost Classifier
+
+## 🐱 CatBoost Classifier
+The **CatBoost Classifier** is an advanced gradient boosting algorithm developed by Yandex, designed for handling categorical data efficiently. It is based on **Gradient Boosting** techniques and is known for its speed, accuracy, and ability to handle categorical features without the need for manual encoding. The model builds an ensemble of decision trees, optimizing them to minimize loss and improve prediction accuracy iteratively.
 ### Feature Importance of `CatBoost Classifierr`
 <img src="plots/04.png" alt="Alt Text" width="800" height ="280"/>
 
