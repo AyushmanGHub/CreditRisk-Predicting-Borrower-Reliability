@@ -4,6 +4,8 @@
 
 ## Model Performance Metrics
 
+
+
 | Model                                | Accuracy |   Will Default (1)   | Will Not Default (0) |
 |--------------------------------------|----------|-----------|----------|-----------|----------|
 |                                      |          | Precision |  Recall  | Precision |  Recall  |
@@ -23,6 +25,12 @@
 
 
 
+
+
+
+
+
+---
 |                                  |          |      Will Default     |      Will Not Default     | 
 |----------------------------------|----------|-----------------------|---------------------------|
 |               Model              | Accuracy | Precision |   Recall  |  Precision  |   Recall    |  
