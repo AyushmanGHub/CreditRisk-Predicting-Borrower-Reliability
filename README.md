@@ -85,16 +85,17 @@ The **CatBoost Classifier** is an advanced gradient boosting algorithm developed
 
 
 ## 🌟 XGBoost Classifier
-## XGBoost Classifier
 **XGBoost (Extreme Gradient Boosting)** is an optimized gradient boosting algorithm designed for speed and performance. It is widely known for its **accuracy** and **scalability**, particularly in classification and regression tasks. XGBoost employs advanced regularization techniques, such as **L1** and **L2** regularization, to prevent overfitting and improve model generalization. It supports **parallel processing**, **GPU acceleration**, and is capable of handling large datasets efficiently. XGBoost is often the go-to algorithm for data science competitions due to its outstanding performance and ability to handle diverse types of data.
 ### Feature Importance of `XGBoost Classifier`
 <img src="plots/02.png" alt="Alt Text" width="800" height ="280"/>
 
+## Majority Plot
 
-## 13. Majority Classifier
+### Table for Weight of features for each model
+<img src="plots/15.png" alt="Alt Text" width="800" height ="350"/>
 
-### Figure 05. Significance of features for (a) Random Forest Model, (b) XGBoost Model
-<img src="plots/06.png" alt="Alt Text" width="800" height ="250"/>
+### Plot for Significance of features for each model
+<img src="plots/14.png" alt="Alt Text" width="800" height ="350"/>
 
 
 ## Classification and Evaluation
@@ -119,10 +120,17 @@ The **CatBoost Classifier** is an advanced gradient boosting algorithm developed
 |  -------                               |          |              |           |              |           |
 | `Majority Classifier`                  | 0.978970 |    1.00      |   0.75    |     0.98     |   1.00    |
 
+### Plot of accuracy for each model
+<img src="plots/18.png" alt="Alt Text" width="800" height ="350"/>
+
+### Evaluation metices of majority plot
+<img src="plots/18.png" alt="Alt Text" width="500" height ="350"/>
 
 ## Result and Conclusion
 
-
+### sample result for each model
+<img src="plots/16.png" alt="Alt Text" width="600" height ="350"/>
+<img src="plots/17.png" alt="Alt Text" width="600" height ="350"/>
 
 # ----------------------------------------------------------------
 ### * If want to know more about this project there are python Notebook file, Project report paper and all other resources included in same repository.
