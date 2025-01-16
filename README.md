@@ -121,16 +121,16 @@ The **CatBoost Classifier** is an advanced gradient boosting algorithm developed
 | `Majority Classifier`                  | 0.978970 |    1.00      |   0.75    |     0.98     |   1.00    |
 
 ### Plot of accuracy for each model
-<img src="plots/18.png" alt="Alt Text" width="800" height ="350"/>
+<img src="plots/18.png" alt="Alt Text" width="800" height ="300"/>
 
 ### Evaluation metices of majority plot
-<img src="plots/18.png" alt="Alt Text" width="500" height ="350"/>
+<img src="plots/18.png" alt="Alt Text" width="800" height ="300"/>
 
 ## Result and Conclusion
 
 ### sample result for each model
-<img src="plots/16.png" alt="Alt Text" width="600" height ="350"/>
-<img src="plots/17.png" alt="Alt Text" width="600" height ="350"/>
+<img src="plots/16.png" alt="Alt Text" width="800" height ="350"/>
+<img src="plots/17.png" alt="Alt Text" width="800" height ="350"/>
 
 # ----------------------------------------------------------------
 ### * If want to know more about this project there are python Notebook file, Project report paper and all other resources included in same repository.
