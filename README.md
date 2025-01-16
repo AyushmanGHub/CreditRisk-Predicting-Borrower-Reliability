@@ -7,9 +7,9 @@
 
 Credit card default is a critical issue in the financial sector, where banks and financial institutions need to assess the risk associated with lending. This project aims to develop a **machine learning model** that predicts whether a customer will default on their credit card payment.  
 
-Using the **AmExpert CodeLab 2021 dataset**, we analyze various demographic, financial, and credit-related features to identify patterns in customer behavior. The goal is to **enhance risk assessment strategies**, helping financial institutions make informed lending decisions and reduce financial losses.  
+Using the **AmExpert CodeLab 2021 dataset**, I analyzed various demographic, financial, and credit-related features to identify patterns in customer behavior. The goal is to **enhance risk assessment strategies**, helping financial institutions make informed lending decisions and reduce financial losses.  
 
-In this project, we explore different machine learning techniques, including **ensemble models, deep learning, and feature engineering**, to improve predictive accuracy.  
+In this project, I used different machine learning techniques, including **ensemble models, deep learning, and feature engineering**, to improve predictive accuracy.  
 
 ## 📌 About the Dataset  
 📂 **Dataset Link**: [Kaggle - AmExpert CodeLab 2021](https://www.kaggle.com/datasets/pradip11/amexpert-codelab-2021)  
