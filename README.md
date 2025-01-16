@@ -124,7 +124,7 @@ The **CatBoost Classifier** is an advanced gradient boosting algorithm developed
 <img src="plots/18.png" alt="Alt Text" width="800" height ="300"/>
 
 ### Evaluation metices of majority plot
-<img src="plots/18.png" alt="Alt Text" width="800" height ="300"/>
+<img src="plots/19.png" alt="Alt Text" width="800" height ="300"/>
 
 ## Result and Conclusion
 
