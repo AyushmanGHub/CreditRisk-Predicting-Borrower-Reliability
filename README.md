@@ -105,21 +105,24 @@ The **CatBoost Classifier** is an advanced gradient boosting algorithm developed
 
 |                Model                   | Accuracy | Precision(1) | Recall(1) | Precision(0) | Recall(0) |
 |----------------------------------------|----------|--------------|-----------|--------------|-----------|
-| `Extra Tree Classifier`                | 0.970811 | 0.799014     | 0.876861  | 0.988468     | 0.979530  |
-| `MLP Classifier (Neural Networks)`     | 0.971156 | 0.812020     | 0.859269  | 0.986869     | 0.981540  |
-| `Gradient Boosting Classifier`         | 0.974374 | 0.870690     | 0.820027  | 0.983387     | 0.988698  |
-| `Logistic Regression`                  | 0.963457 | 0.722281     | 0.925575  | 0.992908     | 0.966972  |
-| `Adaptive Boosting Classifier`         | 0.957711 | 0.673203     | 0.975643  | 0.997641     | 0.956047  |
-| `Support Vector Machine`               | 0.961273 | 0.706790     | 0.929635  | 0.993273     | 0.964209  |
-| `K-Neighbours Classifier`              | 0.951505 | 0.663571     | 0.870095  | 0.987586     | 0.959061  |
-| `Random Forest Classifier`             | 0.968283 | 0.759239     | 0.917456  | 0.992189     | 0.973000  |
-| `Decision Tree Classifier`             | 0.966100 | 0.736674     | 0.935047  | 0.993818     | 0.968982  |
-| `CatBoost Classifier`                  | 0.974489 | 0.858530     | 0.837618  | 0.984964     | 0.987191  |
-| `LightGBM Classifier`                  | 0.974718 | 0.862937     | 0.834912  | 0.984725     | 0.987693  |
-| `XGBoost Classifier`                   | 0.959090 | 0.683958     | 0.963464  | 0.996476     | 0.958684  |
+| `Extra Tree Classifier`                | 0.9708   | 0.7990       | 0.8769    | 0.9885       | 0.9795    |
+| `MLP Classifier (Neural Networks)`     | 0.9712   | 0.8120       | 0.8593    | 0.9869       | 0.9815    |
+| `Gradient Boosting Classifier`         | 0.9744   | 0.8707       | 0.8200    | 0.9834       | 0.9887    |
+| `Logistic Regression`                  | 0.9635   | 0.7223       | 0.9256    | 0.9929       | 0.9670    |
+| `Adaptive Boosting Classifier`         | 0.9577   | 0.6732       | 0.9756    | 0.9976       | 0.9560    |
+| `Support Vector Machine`               | 0.9613   | 0.7068       | 0.9296    | 0.9933       | 0.9642    |
+| `K-Neighbours Classifier`              | 0.9515   | 0.6636       | 0.8701    | 0.9876       | 0.9591    |
+| `Random Forest Classifier`             | 0.9683   | 0.7592       | 0.9175    | 0.9922       | 0.9730    |
+| `Decision Tree Classifier`             | 0.9661   | 0.7367       | 0.9350    | 0.9938       | 0.9690    |
+| `CatBoost Classifier`                  | 0.9745   | 0.8585       | 0.8376    | 0.9850       | 0.9872    |
+| `LightGBM Classifier`                  | 0.9747   | 0.8629       | 0.8349    | 0.9847       | 0.9877    |
+| `XGBoost Classifier`                   | 0.9591   | 0.6840       | 0.9635    | 0.9965       | 0.9587    |
 | -------------------------------------- |          |              |           |              |           |
-| `Majority Classifier`                  | 0.970696 | 0.790168     | 0.891746  | 0.989832     | 0.978023  |
+| `Majority Classifier`                  | 0.9707   | 0.7902       | 0.8917    | 0.9898       | 0.9780    |
 
+### 📌 Metric Definitions:
+- **Accuracy**: Measures the overall correctness of the model’s predictions.
+- **Precision (1)**: The proportion of correctly predicted default
 
 ### Plot of accuracy for each model
 <img src="plots/18.png" alt="Alt Text" width="800" height ="300"/>
