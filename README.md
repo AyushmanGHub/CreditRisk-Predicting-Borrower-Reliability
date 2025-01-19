@@ -18,15 +18,12 @@ In this project, I used different machine learning techniques, including **ensem
 
 ## 🛠 Steps in Project  
 
-### 1. **Data Preparation**  
+#### 1. **Data Preparation**  
    - **Data Loading**: Imported the dataset and explored its structure to understand the features and target variables.  
-   - **Data Cleaning**:  
-     - Handled missing values and inconsistencies.  
-     - Removed unnecessary columns like `customer_id` and `name`.  
+   - **Data Cleaning**:  Handled missing values and inconsistencies,  Removed unnecessary columns like `customer_id` and `name`.  
    - **Feature Selection**: Retained relevant features for model training and removed redundant data.  
 
-### 2. **Feature Scaling**  
-   - Applied `StandardScaler` to normalize the feature values for models sensitive to scale, such as SVM and Neural Networks.  
+#### 2. **Feature Scaling** : Applied `StandardScaler` to normalize the feature values for models sensitive to scale, such as SVM and Neural Networks.  
 
 ### 3. **Data Balancing**  
    - Addressed class imbalance in the `credit_card_default` column using the `RandomUnderSampler` technique to achieve a 50-50 distribution of classes (1 and 0).  
