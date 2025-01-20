@@ -163,6 +163,50 @@ The **CatBoost Classifier** is an advanced gradient boosting algorithm developed
 ### Evaluation metices of majority plot
 <img src="plots/19.png" alt="Alt Text" width="800" height ="300"/>
 
+## 📊 **Key Evaluation Metrics and Their Importance**  
+
+### For Above project we need to consider **Recall (1) and Recall (0)**  
+**Why:**  
+- Identifying actual defaulters is critical to minimize financial risk.  
+- A high recall ensures fewer risky customers are overlooked, preventing losses.  
+- Missing true defaulters (false negatives) can lead to serious financial consequences.  
+
+---
+
+### **2. Precision (1)**  
+**Why:**  
+- Helps in reducing false alarms by ensuring that flagged defaulters are truly at risk.  
+- Essential for optimizing intervention strategies and avoiding unnecessary resource allocation.  
+- High precision means better targeting of high-risk customers without affecting good ones.  
+
+---
+
+### **3. Accuracy**  
+**Why:**  
+- Provides an overall measure of model performance.  
+- Useful for comparing models, but should be interpreted cautiously due to class imbalance.  
+- A high accuracy might still mislead if the minority class (defaulters) isn't well predicted.  
+
+---
+
+### **4. Precision (0) & Recall (0)**  
+**Why:**  
+- Ensures non-defaulters are correctly identified, preventing rejection of good customers.  
+- Important for maintaining customer satisfaction and business profitability.  
+- High values mean fewer false positives, ensuring reliable lending decisions.  
+
+---
+
+### **5. F1-Score (Optional Consideration)**  
+**Why:**  
+- Useful when balancing precision and recall is crucial.  
+- Helps in making a trade-off between identifying defaulters and avoiding unnecessary interventions.  
+
+---
+
+**Focus should primarily be on Recall (1) and Precision (1)** to ensure financial risks are minimized while maintaining operational efficiency.
+
+
 ## Result and Conclusion
 
 ### sample result for each model
