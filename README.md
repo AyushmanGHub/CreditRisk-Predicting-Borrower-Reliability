@@ -168,11 +168,7 @@ The **CatBoost Classifier** is an advanced gradient boosting algorithm developed
 - **Precision (0) & Recall (0) as next important**  since,It ensures non-defaulters are correctly identified, preventing rejection of good customers.It is mportant for maintaining customer satisfaction and business profitability.  
 - **Accuracy** it is needed because it provides an overall measure of model performance and can be useful for comparing models, but should be interpreted cautiously due to class imbalance. High accuracy might still mislead if the minority class (defaulters) isn't well predicted.  
 
----
 
-
-
----
 
 ### **5. F1-Score (Optional Consideration)**  
  
