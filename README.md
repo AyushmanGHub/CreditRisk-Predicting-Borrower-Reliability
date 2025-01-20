@@ -175,9 +175,7 @@ The **CatBoost Classifier** is an advanced gradient boosting algorithm developed
 ---
 
 ### **5. F1-Score (Optional Consideration)**  
-**Why:**  
-- Useful when balancing precision and recall is crucial.  
-- Helps in making a trade-off between identifying defaulters and avoiding unnecessary interventions.  
+ 
 
 
 ## Result and Conclusion
