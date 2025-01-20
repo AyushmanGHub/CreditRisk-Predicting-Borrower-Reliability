@@ -164,18 +164,9 @@ The **CatBoost Classifier** is an advanced gradient boosting algorithm developed
 <img src="plots/19.png" alt="Alt Text" width="800" height ="300"/>
 
 ## 📊 **Key Evaluation Metrics and Their Importance**  
-- For Above project we need to consider **Recall (1) as most important metric ** because- Identifying actual defaulters is critical to minimize financial risk. A high recall ensures fewer risky customers are overlooked, preventing losses and missing true defaulters (false negatives) can lead to serious financial consequences.  
+- For Above project we need to consider **Recall (1) as most important metric** because- Identifying actual defaulters is critical to minimize financial risk. A high recall ensures fewer risky customers are overlooked, preventing losses and missing true defaulters (false negatives) can lead to serious financial consequences.  
 - **Precision (0) & Recall (0) as next important**  since,It ensures non-defaulters are correctly identified, preventing rejection of good customers.It is mportant for maintaining customer satisfaction and business profitability.  
-- High values mean fewer false positives, ensuring reliable lending decisions.  
-
-
----
-
-### **Accuracy**  
-**Why:**  
-- Provides an overall measure of model performance.  
-- Useful for comparing models, but should be interpreted cautiously due to class imbalance.  
-- A high accuracy might still mislead if the minority class (defaulters) isn't well predicted.  
+- **Accuracy** it is needed because it provides an overall measure of model performance and can be useful for comparing models, but should be interpreted cautiously due to class imbalance. High accuracy might still mislead if the minority class (defaulters) isn't well predicted.  
 
 ---
 
