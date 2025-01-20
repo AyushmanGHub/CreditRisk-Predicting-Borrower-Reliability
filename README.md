@@ -164,24 +164,14 @@ The **CatBoost Classifier** is an advanced gradient boosting algorithm developed
 <img src="plots/19.png" alt="Alt Text" width="800" height ="300"/>
 
 ## 📊 **Key Evaluation Metrics and Their Importance**  
+- For Above project we need to consider **Recall (1) as most important metric ** because- Identifying actual defaulters is critical to minimize financial risk. A high recall ensures fewer risky customers are overlooked, preventing losses and missing true defaulters (false negatives) can lead to serious financial consequences.  
+- **Precision (0) & Recall (0) as next important**  since,It ensures non-defaulters are correctly identified, preventing rejection of good customers.It is mportant for maintaining customer satisfaction and business profitability.  
+- High values mean fewer false positives, ensuring reliable lending decisions.  
 
-### For Above project we need to consider **Recall (1) and Recall (0)**  
-**Why:**  
-- Identifying actual defaulters is critical to minimize financial risk.  
-- A high recall ensures fewer risky customers are overlooked, preventing losses.  
-- Missing true defaulters (false negatives) can lead to serious financial consequences.  
 
 ---
 
-### **2. Precision (1)**  
-**Why:**  
-- Helps in reducing false alarms by ensuring that flagged defaulters are truly at risk.  
-- Essential for optimizing intervention strategies and avoiding unnecessary resource allocation.  
-- High precision means better targeting of high-risk customers without affecting good ones.  
-
----
-
-### **3. Accuracy**  
+### **Accuracy**  
 **Why:**  
 - Provides an overall measure of model performance.  
 - Useful for comparing models, but should be interpreted cautiously due to class imbalance.  
@@ -189,11 +179,7 @@ The **CatBoost Classifier** is an advanced gradient boosting algorithm developed
 
 ---
 
-### **4. Precision (0) & Recall (0)**  
-**Why:**  
-- Ensures non-defaulters are correctly identified, preventing rejection of good customers.  
-- Important for maintaining customer satisfaction and business profitability.  
-- High values mean fewer false positives, ensuring reliable lending decisions.  
+
 
 ---
 
