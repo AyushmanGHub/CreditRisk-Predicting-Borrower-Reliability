@@ -179,10 +179,6 @@ The **CatBoost Classifier** is an advanced gradient boosting algorithm developed
 - Useful when balancing precision and recall is crucial.  
 - Helps in making a trade-off between identifying defaulters and avoiding unnecessary interventions.  
 
----
-
-**Focus should primarily be on Recall (1) and Precision (1)** to ensure financial risks are minimized while maintaining operational efficiency.
-
 
 ## Result and Conclusion
 
