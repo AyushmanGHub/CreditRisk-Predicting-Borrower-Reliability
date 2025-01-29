@@ -170,11 +170,24 @@ The **CatBoost Classifier** is an advanced gradient boosting algorithm developed
  
 
 
-## Result and Conclusion
-
+## **📊 Results Overview**  
 ### sample result for each model
 <img src="plots/16.png" alt="Alt Text" width="800" height ="350"/>
 <img src="plots/17.png" alt="Alt Text" width="800" height ="350"/>
+
+The performance of various machine learning models was evaluated using key metrics such as **Accuracy, Precision (1), Recall (1), Precision (0), and Recall (0)**. Among all models, **Gradient Boosting Classifier, LightGBM, and CatBoost** showed the best trade-off between high recall and precision for defaulters, making them strong candidates for credit risk prediction.  
+
+Key observations:  
+- **Gradient Boosting Classifier** achieved the highest overall accuracy (**0.974374**) with a strong balance in Recall (1) and Precision (1).  
+- **LightGBM and CatBoost** performed similarly, ensuring minimal false negatives and strong overall prediction capability.  
+- **Logistic Regression and Adaptive Boosting** had **high recall but lower precision**, meaning they flagged more defaulters but also included some misclassifications.  
+- **Majority Classifier** performed well in accuracy but lacked the adaptability of other models.  
+
+## **✅ Conclusion**  
+This project successfully built and compared multiple machine learning models for **credit default prediction**. Given the financial implications, **Recall (1) was prioritized** to ensure actual defaulters are correctly identified. The best-performing models (**Gradient Boosting, LightGBM, and CatBoost**) offer a **data-driven solution** to minimize financial risk while maintaining operational efficiency.  
+
+
+
 
 # ----------------------------------------------------------------
 ### * If want to know more about this project there are python Notebook file, Project report paper and all other resources included in same repository.
