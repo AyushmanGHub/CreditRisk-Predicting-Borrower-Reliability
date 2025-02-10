@@ -1,4 +1,4 @@
-🚀 **Explore the repository for code, analysis, and results!**
+🚀 **Explore my repository for code, analysis, and results!**
 ---
 # CreditRisk: Predicting Borrower Reliability
 ---
